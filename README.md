@@ -15,7 +15,7 @@ Xcode has 8 types of templates
 
 The workspace has variations of each type of template. 
 The project names contains the options selected
-e.g MasterDetail_NoCD_Universal is the MasterDetail template without Core Data for a Universal app etc.
+e.g ***MasterDetail_NoCD_Universal*** is the MasterDetail template without Core Data for a Universal app etc.
 
 ## What is each Template?
 * Master-Detail Application:
