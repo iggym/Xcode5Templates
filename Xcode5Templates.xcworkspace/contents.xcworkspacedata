@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SpriteKit-Game_Universal/SpriteKit-Game_Universal.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SpriteKit-Game_iPad/SpriteKit-Game_iPad.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SpriteKit-Game_iPhone/SpriteKit-Game_iPhone.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Empty-App_CD_Universal/Empty-App_CD_Universal.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Empty-App_NoCD_Universal/Empty-App_NoCD_Universal.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Empty-App_CD_iPad/Empty-App_CD_iPad.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Empty-App_NoCD_iPad/Empty-App_NoCD_iPad.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Empty-App_CD_iPhone/Empty-App_CD_iPhone.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Empty-App_NoCD_iPhone/Empty-App_NoCD_iPhone.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Utility-App__CD_Universal/Utility-App__CD_Universal.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Utility-App__NoCD_Universal/Utility-App__NoCD_Universal.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Utility-App__CD_iPad/Utility-App__CD_iPad.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Utility-App__NoCD_iPad/Utility-App__NoCD_iPad.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Utility-App__CD_iPhone/Utility-App__CD_iPhone.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Utility-App__NoCD_iPhone/Utility-App__NoCD_iPhone.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tabbed_App_Universe/Tabbed_App_Universe.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tabbed_App_iPad/Tabbed_App_iPad.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tabbed_App_iPhone/Tabbed_App_iPhone.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SingleView_Universal/SingleView_Universal.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SingleView_iPad/SingleView_iPad.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SingleView_iPhone/SingleView_iPhone.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Page-Based_Universal/Page-Based_Universal.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Page-Based_iPad/Page-Based_iPad.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Page-Based_iPhone/Page-Based_iPhone.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OpenGL_Game_Universal/OpenGL_Game_Universal.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OpenGL_Game_iPad/OpenGL_Game_iPad.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OpenGL_Game_iPhone/OpenGL_Game_iPhone.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MasterDetail_CD_Universal/MasterDetail_CD_Universal.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MasterDetail_NoCD_Universal/MasterDetail_NoCD_Universal.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MasterDetail_CD_iPad/MasterDetail_CD_iPad.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MasterDetail_NoCD_iPad/MasterDetail_NoCD_iPad.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MasterDetail_CD_iPhone/MasterDetail_CD_iPhone.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MasterDetail_NoCD_iPhone/MasterDetail_NoCD_iPhone.xcodeproj">
+   </FileRef>
+</Workspace>
